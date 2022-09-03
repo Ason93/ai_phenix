@@ -1,0 +1,25 @@
+{
+    "perception":
+    {
+        "inputText":
+        {
+            "text": ""
+        },
+
+        "selfInfo":
+        {
+            "location":
+            {
+                "city": "Shanghai",
+                "province": "Shanghai",
+                "street": "Dongchuanlu"
+            }
+        }
+    },
+
+    "userInfo":
+    {
+        "apiKey": "8f2b395da8674621b0269ba3b243adfc",
+        "userId": "jin"
+    }
+}
